@@ -1,5 +1,9 @@
 # 📌 Zomato Food Delivery Data Analysis & Dashboard
 
+## 📊 Dashboard Preview (Overview Page)
+
+![Dashboard Page 1](./DASHBOARD%20PAGE%201.png)
+
 ## 📊 Project Overview
 This project focuses on analyzing food delivery data inspired by a Zomato-like platform. The objective is to extract meaningful business insights using a complete data analytics workflow, including data cleaning, SQL analysis, Python-based exploration, and interactive Power BI dashboards.
 
