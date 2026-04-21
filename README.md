@@ -103,4 +103,7 @@ Zomato_food_chain_analysis_2026/
 ## 📌 Future Improvements
 - Add real-time data integration  
 - Include predictive analysis (delivery time forecasting)  
-- Enhance dashboard UX with advanced interactions  
+- Enhance dashboard UX with advanced interactions
+
+Author : Mayank Bisht
+Data Analytics enthusiast | Excel(Advanced) | SQL | Python | PowerBI
